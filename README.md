@@ -1,5 +1,5 @@
 # Sistema de Chamados — Módulo 02 ADS
-## ALuno: Marcos Vinícius de OLiveira Teixeira
+## Aluno: Marcos Vinícius de OLiveira Teixeira
 ## Visão Geral
 - Projeto didático para gerenciamento simples de chamados (abrir, listar, marcar como atendido).
 - Estrutura em camadas: Modelo (entidades), Funcionalidade (regras de negócio), UI (interface com usuário).
